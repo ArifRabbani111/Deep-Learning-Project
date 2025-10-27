@@ -115,5 +115,20 @@ To further improve performance, **Keras Tuner’s Random Search** was used to ex
 
 ---
 
-## 🧾 Repository Structure
+---
+
+## 🏁 Conclusion
+
+This project showcases the **complete deep learning pipeline** — from building a baseline CNN to performing **rigorous hyperparameter optimization**.  
+The final tuned model delivers high accuracy on the MNIST dataset and serves as a foundation for more advanced **computer vision research**.
+
+---
+
+### 📜 Author
+**ARIF RABBANI**  
+Software Engineering Student | Machine Learning Enthusiast  
+
+
+
+
 
